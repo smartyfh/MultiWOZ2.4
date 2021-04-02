@@ -3,7 +3,7 @@ This is the dataset described in the paper: **MultiWOZ 2.4: A Multi-Domain Task-
 
 MultiWOZ 2.4 is a refined version of MultiWOZ 2.1. Specifically, we carefully rectified all the annotation errors in the validation set and test set. We keep the training set intact.
 
-MultiWOZ 2.4 shares exactly the same format as MultiWOZ 2.1., thus it is pretty easy for us to run existing models that are built upon MultiWOZ 2.1 on MultiWOZ 2.4.
+MultiWOZ 2.4 shares exactly the same format as MultiWOZ 2.1, thus it is pretty easy for us to run existing models that are built upon MultiWOZ 2.1 on MultiWOZ 2.4.
 
 ## Data Preprocessing
 MultiWOZ 2.4 can be preprocessed by the script create_data.py
