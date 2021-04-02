@@ -24,7 +24,7 @@ We test the performance of eight SOTA dialogue state tracking models on MultiWOZ
 | CHAN  |53.38%|68.25%|
 |STAR|56.36%|73.62%|
 |TRADE|45.60%|55.05%|
-|PIN|48.60%|58.92%|
+|PIN|48.40%|58.92%|
 |SOM-DST|51.24%|66.78%|
 |SAVN|54.86%|60.55%|
 |TripPy|55.18%|59.62%|
