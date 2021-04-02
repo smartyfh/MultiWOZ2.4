@@ -29,3 +29,4 @@ We test the performance of eight SOTA dialogue state tracking models on MultiWOZ
 |SAVN|54.86%|60.55%|
 |TripPy|55.18%|59.62%|
 
+*the joint goal accuracy
