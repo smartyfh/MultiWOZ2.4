@@ -1,5 +1,5 @@
 # MultiWOZ 2.4
-This is the dataset described in the paper: **MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation. Fanghua Ye, Jarana Manotumruksa, Emine Yilmaz.** [[paper](https://arxiv.org/abs/2104.00773)]
+This is the dataset described in the paper: **MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation. Fanghua Ye, Jarana Manotumruksa, Emine Yilmaz.** Findings of ACL 2021 [[paper](https://arxiv.org/abs/2104.00773)]
 
 MultiWOZ 2.4 is a refined version of MultiWOZ 2.1. Specifically, we carefully rectified all the annotation errors in the validation set and test set. We keep the training set intact.
 
