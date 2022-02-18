@@ -16,7 +16,7 @@ or simply by the script split.py
 ```
 
 ## Benchmark Results
-We test the performance of eight SOTA dialogue state tracking models on MultiWOZ 2.4. All the chosen models demonstrate much higher performance (joint goal accuracy), benefiting from the improved test set.
+We test the performance of nine SOTA dialogue state tracking models on MultiWOZ 2.4. All the chosen models demonstrate much higher performance (joint goal accuracy), benefiting from the improved test set.
 
 | Model | MultiWOZ 2.1 | MultiWOZ 2.4 |
 |-------|--------------|--------------|
@@ -28,5 +28,5 @@ We test the performance of eight SOTA dialogue state tracking models on MultiWOZ
 |SOM-DST|51.24%|66.78%|
 |SimpleTOD|51.75%|57.18%|
 |SAVN|54.86%|60.55%|
-|TripPy|55.18%|59.62%|
+|TripPy|55.18%|64.75%|
 
