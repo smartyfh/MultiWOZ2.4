@@ -30,4 +30,7 @@ We test the performance of nine SOTA dialogue state tracking models on MultiWOZ 
 |SAVN|54.86%|60.55%|
 |TripPy|55.18%|64.75%|
 |[IC-DST (GPT3)](https://arxiv.org/abs/2203.08568)|50.65%|62.43%|
-
+|[Seq2Seq](https://arxiv.org/pdf/2108.13990.pdf)|54.4%|67.10%|
+|[TripPy-R](https://arxiv.org/pdf/2202.03354.pdf)|55.99%|69.87%|
+|[D3ST (XXL)](https://arxiv.org/pdf/2201.08904.pdf)|57.8%|75.90%|
+|[ASSIST (STAR)](https://arxiv.org/pdf/2202.13024.pdf)|-|79.41%|
