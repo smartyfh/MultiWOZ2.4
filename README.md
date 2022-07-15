@@ -29,5 +29,5 @@ We test the performance of nine SOTA dialogue state tracking models on MultiWOZ 
 |SimpleTOD|51.75%|57.18%|
 |SAVN|54.86%|60.55%|
 |TripPy|55.18%|64.75%|
-|[IC-DST GPT3](https://arxiv.org/abs/2203.08568)|50.65%|62.43%|
+|[IC-DST (GPT3)](https://arxiv.org/abs/2203.08568)|50.65%|62.43%|
 
