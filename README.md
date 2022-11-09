@@ -22,7 +22,7 @@ We test the performance of nine SOTA dialogue state tracking models on MultiWOZ 
 |-------|--------------|--------------|
 | SUMBT |    49.01%    |    61.86%  |
 | CHAN  |53.38%|68.25%|
-|STAR|56.36%|73.62%|
+|[STAR](https://arxiv.org/pdf/2101.09374.pdf)|56.36%|73.62%|
 |TRADE|45.60%|55.05%|
 |PIN|48.40%|58.92%|
 |SOM-DST|51.24%|66.78%|
